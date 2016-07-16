@@ -22,3 +22,7 @@ Generate forms from a JSON schema, with Vue.js! http://vuejsform.io
 
 - Formly.js,  http://angular-formly.com 
 - Formly.js Github, https://github.com/formly-js
+
+# Form Builders
+
+- https://github.com/minikomi/Bootstrap-Form-Builder
