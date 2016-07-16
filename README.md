@@ -25,4 +25,6 @@ Generate forms from a JSON schema, with Vue.js! http://vuejsform.io
 
 # Form Builders
 
+- https://github.com/dobtco/formbuilder
 - https://github.com/minikomi/Bootstrap-Form-Builder
+- https://github.com/kelp404/angular-form-builder
