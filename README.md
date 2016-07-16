@@ -1,5 +1,5 @@
 # vuejs-schema-form
-Generate forms from a JSON schema, with AngularJS! http://schemaform.io
+Generate forms from a JSON schema, with Vue.js! http://vuejsform.io
 
 # Inspirations
 
