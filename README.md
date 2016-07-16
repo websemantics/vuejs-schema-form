@@ -1,7 +1,14 @@
 # vuejs-schema-form
 Generate forms from a JSON schema, with Vue.js! http://vuejsform.io
 
-# Inspirations
+
+# Resources
+
+- Introducing JSON, http://json.org/
+- Json Schema, http://json-schema.org/
+
+
+# Similar Projects
 
 - https://github.com/jdorn/json-editor
 - https://github.com/json-schema-form/angular-schema-form
