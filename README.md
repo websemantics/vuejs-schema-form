@@ -11,6 +11,8 @@ Generate forms from a JSON schema, with Vue.js! http://vuejsform.io
 
 # Form Generators
 
+Libraries and tools to generate forms based on Json Schema.
+
 - [JSON Form](http://ulion.github.io/jsonform/playground), (Github, https://github.com/joshfire/jsonform)
 - [JSON Editor](http://jeremydorn.com/json-editor/), (Github,  https://github.com/jdorn/json-editor)
 - [Angular Schema Form](http://schemaform.io/examples/bootstrap-example.html), (Github,  https://github.com/json-schema-form/angular-schema-form)
@@ -18,9 +20,12 @@ Generate forms from a JSON schema, with Vue.js! http://vuejsform.io
 - React Form Generator, (Github,  https://github.com/SteveVitali/react-form-generator)
 - [Gform](http://www.toobop.net/index.html), (Github,  https://github.com/stemey/dojo-generate-form)
 - [Fomly](http://angular-formly.com), (Github, https://github.com/formly-js)
+- [Vue.js Schema Form generator](https://jsfiddle.net/icebob/0mg1v81e), (Github, https://github.com/icebob/vue-form-generator)
 
 
 # Form Builders
+
+Interactive applications to build forms.
 
 - [Formbuilder.js](http://dobtco.github.io/formbuilder/), (Github, https://github.com/dobtco/formbuilder)
 - [Bootstrap Form Builder](http://minikomi.github.io/Bootstrap-Form-Builder/), (Github, https://github.com/minikomi/Bootstrap-Form-Builder)
